@@ -4,10 +4,10 @@
 
 You should have nodejs installed locally. 
 
-Clone the project to your local folder, then run the following commands:
+Clone the project to your local machine, then run the following commands:
 
 ```
-pi_calculator/backend
+cd pi_calculator/backend
 npm install
 node app.js
 ```
