@@ -6,8 +6,11 @@ You should have nodejs installed locally.
 
 Clone the project to your local folder, then run the following commands:
 
-`cd backend`
-`node app.js`
+```
+pi_calculator/backend
+npm install
+node app.js
+```
 
 Go to `localhost:8999` to play!
 
